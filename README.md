@@ -1,1 +1,2 @@
 # Student-Record-Management
+This program defines the StudentList class, which organizes and processes student records, manages dynamic arrays, imports data from files, and generates reports including grade distributions and sorting. This program also implements the Grades class and its specialized subclasses for different majors, enabling detailed grade calculation, formatting, and management of student-specific academic data.
